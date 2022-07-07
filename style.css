@@ -41,11 +41,19 @@ button{
     border-radius: 7px;
     border:none;
     width:125px;
-    height:50px;
+    height:50spx;
 }
 
 #result_image{
     background-color: black;
     width:400px;
     height:300px;
+}
+
+#result_text, #result_accuracy, #result_meaning{
+    font-size: 25px;
+}
+
+#result_icon{
+    font-size: 50px;
 }
